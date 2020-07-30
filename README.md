@@ -12,5 +12,6 @@ A collection of data science exercises demonstrating machine learning techniques
 * COVID-19 Model Analysis
 
 ## Exercise references
+* MACHine LEARNING & DATA MINING (7071)
 * [Chengcheng Li, PhD, MBA](https://researchdirectory.uc.edu/p/li2cc)
 * Completed on Jupyter Notebook

@@ -9,7 +9,6 @@ A collection of data science exercises demonstrating machine learning techniques
 * Linear Regression and Vectorization
 * Machine Learning Libraries
 * Polynomial Regression and Model Evaluation
-* COVID-19 Model Analysis
 
 ## Exercise references
 * MACHINE LEARNING & DATA MINING (7071)

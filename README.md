@@ -1,5 +1,5 @@
 # Machine-learning-exercises
-A collection of data science exercises demonstrating machine learning techniques.
+A collection of data science exercises demonstrating machine learning techniques. GitHub sometimes has trouble rendering .ipynb files. If you're having trouble viewing, just copy the entire Github link for that .ipynb and paste it at: "https://nbviewer.jupyter.org/"
 
 ## Topics
 * Data Scraping
